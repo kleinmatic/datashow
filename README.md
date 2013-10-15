@@ -4,17 +4,17 @@
 
 ## Software to Install
 
-**Google Chrome**
-Internet Explorer and Firefox both have excellent developer tools but the Web Inspector in Chrome will be basis of our examples. Some examples use Firefox extensions, but if you don’t have it, no worries.
+**Google Chrome**: Internet Explorer and Firefox both have excellent developer tools but the Web Inspector in Chrome will be basis of our examples. Some examples use Firefox extensions, but if you don’t have it, no worries.
 
-*JSONView Chrome Extension*: http://goo.gl/njpwwh
+**JSONView Chrome Extension**: http://goo.gl/njpwwh
 
-**CSVKit 
-[http://csvkit.readthedocs.org/en/latest/index.html](http://csvkit.readthedocs.org/en/latest/index.html)
+**CSVKit**: [http://csvkit.readthedocs.org/en/latest/index.html](http://csvkit.readthedocs.org/en/latest/index.html)
+
 Requires Python. Mac/Linux comes with Python installed. Use Anthony DeBarros’s great guide to install Python on Windows. Install Python 2.7.x because CSVKit doesn’t work with Python 3. http://goo.gl/Nm90gD
-**Google Spreadsheets**
-You can import an HTML table directly by typing =ImportHTML(“url”, “elementtype”, numberElement on page)
-Ex: =ImportHTML(“http://www.atlanta.k12.ga.us/Page/832_”, “table”, 2)_
+
+**Google Spreadsheets**: You can import an HTML table directly by typing =ImportHTML(“url”, “elementtype”, numberElement on page)
+
+```Ex: =ImportHTML(“http://www.atlanta.k12.ga.us/Page/832_”, “table”, 2)_```
 
 **Tools we’re using**
 **Open Refine**
