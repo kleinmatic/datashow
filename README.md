@@ -45,7 +45,7 @@ Break your page down into its elements that it is made up of. Grab all pictures 
 **Import.Io - Like Outwit, but less code required**
 [https://import.io/](https://import.io/)
 
-Break your page down into its elements that it is made up of. Grab all pictures on a page at once, create a scraper using various HTML elements as start and end points. This is quite powerful, if you learn how to use it well. More robust than  DownThemAll.
+Break your page down into its elements that it is made up of. Click on elements to "train" the program as to what you want in a certain column. Crawl through multiple paginated results. Solid tutorial here: http://www.interhacktives.com/2014/03/06/scrape-data-without-coding-step-step-tutorial-import-io/
 
 **JQ**:
 [http://stedolan.github.io/jq/download/](http://stedolan.github.io/jq/download/)
