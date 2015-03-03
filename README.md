@@ -1,6 +1,6 @@
 # Downloading Web Data Without Scraping
 
-### Michelle Minkoff and Scott Klein, ONA Atlanta 2013
+### Michelle Minkoff and Scott Klein, NICAR Atlanta 2015
 
 ## Software to Install
 
@@ -14,7 +14,7 @@ Requires Python. Mac/Linux comes with Python installed. Use Anthony DeBarros’s
 
 **Google Spreadsheets**: You can import an HTML table directly by typing =ImportHTML(“url”, “elementtype”, numberElement on page)
 
-```Ex: =ImportHTML(“http://www.atlanta.k12.ga.us/Page/832_”, “table”, 2)_```
+```Ex: =ImportHTML(“http://www.atlanta.k12.ga.us/Page/832”, “table”, 2)```
 
 ## Tools we’re using
 
@@ -39,6 +39,11 @@ A Firefox extension that detects what types of assets you might want to download
 
 **OutwitHub**:
 [https://addons.mozilla.org/en-us/firefox/addon/outwit-hub/](https://addons.mozilla.org/en-us/firefox/addon/outwit-hub/)
+
+Break your page down into its elements that it is made up of. Grab all pictures on a page at once, create a scraper using various HTML elements as start and end points. This is quite powerful, if you learn how to use it well. More robust than  DownThemAll.
+
+**Import.Io - Like Outwit, but less code required**
+[https://import.io/](https://import.io/)
 
 Break your page down into its elements that it is made up of. Grab all pictures on a page at once, create a scraper using various HTML elements as start and end points. This is quite powerful, if you learn how to use it well. More robust than  DownThemAll.
 
