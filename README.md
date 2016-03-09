@@ -1,6 +1,6 @@
 # Downloading Web Data Without Scraping
 
-### Michelle Minkoff and Scott Klein, NICAR Atlanta 2015
+### Michelle Minkoff and Scott Klein, NICAR Denver 2016
 
 ## Software to Install
 
@@ -65,9 +65,9 @@ http://dannguyen.github.io/NICAR/2012/02/25/nicar-2012-inspect-the-web-with-your
 
 **_When grabbing data, please remember to make sure you have permission to get the information you are grabbing. Just because you can take photos off a site, doesn’t mean you can use them for your project. With great power comes great responsibility!_**
 
-1. Atlanta school clusters – for html table -- [http://www.atlanta.k12.ga.us/Page/832](http://www.atlanta.k12.ga.us/Page/832),
-1. Atlanta food and drug officials page – for Scraper - [http://dslo.afdo.org/results/?q=Georgia&unifyfda=1&bystate=1&selected_facets=area_exact:%22100%22](http://dslo.afdo.org/results/?q=Georgia&unifyfda=1&bystate=1&selected_facets=area_exact:%22100%22)
-1. Atlanta image search - [https://www.google.com/search?q=atlanta&espv=210&es_sm=119&source=lnms&tbm=isch&sa=X&ei=PHtcUrakJZT54AOJyYDoCg&ved=0CAcQ_AUoAQ&biw=1449&bih=1102](https://www.google.com/search?q=atlanta&espv=210&es_sm=119&source=lnms&tbm=isch&sa=X&ei=PHtcUrakJZT54AOJyYDoCg&ved=0CAcQ_AUoAQ&biw=1449&bih=1102)
+1. Denver elected officials – for html table -- [https://www.denvergov.org/content/denvergov/en/denver-elections-divison/voter-election-information/current-elected-officials.html#8eef4c9d-881f-402e-bb77-59dc06991b05](https://www.denvergov.org/content/denvergov/en/denver-elections-divison/voter-election-information/current-elected-officials.html#8eef4c9d-881f-402e-bb77-59dc06991b05),
+1. Denver university list – for Scraper - [http://www.hometodenver.com/stats_denver.htm](http://www.hometodenver.com/stats_denver.htm)
+1. Denver image search - [https://www.google.com/search?q=denver&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiL2p_6qbTLAhWBPCYKHRCfC0EQ_AUIBygB&biw=1440&bih=801](https://www.google.com/search?q=denver&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiL2p_6qbTLAhWBPCYKHRCfC0EQ_AUIBygB&biw=1440&bih=801)
 1. ProPublica’s Recovery Tracker [http://projects.propublica.org/recovery/](http://projects.propublica.org/recovery/)
 1. ProPublica’s Intern Lawsuits Tracker [http://projects.propublica.org/graphics/intern-suits](http://projects.propublica.org/graphics/intern-suits)
-1. Missouri Stimulus Data [http://transform.mo.gov/map/](http://transform.mo.gov/map/)
+1. White House Recovery Act Projects [https://www.whitehouse.gov/anniversary-map](https://www.whitehouse.gov/anniversary-map)
